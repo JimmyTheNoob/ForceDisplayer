@@ -7,7 +7,7 @@ ForceDisplayer is a simple simple GUI program that generates a python script tha
 
 To compile ForceDisplayer you need the FreePascal Compiler or the Lazarus IDE
 
-Now im gonna show you how to compile it in Lazarus BUT WAIT!
+Now im gonna show you how to compile it in Lazarus
 
 First you need to install Lazarus
 
