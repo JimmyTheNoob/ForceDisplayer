@@ -25,5 +25,5 @@ Then select Open project go to the directory and boom! Now all you have to do is
 Do not expect ForceDisplayer to do anything useful in Windows.
 ForceDisplayer ONLY works in Unix based distros like Linux and BSD.
 
-
+# Downloads
 [Download Linux executable](https://github.com/JimmyTheNoob/ForceDisplayer/blob/master/ForceDisplayer?raw=true)
